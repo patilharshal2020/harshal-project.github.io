@@ -1,0 +1,57 @@
+/* .whatsapp-btn */
+.whatsapp-btn {
+  padding: 1px 3px;
+  margin: 0px;
+  float: right;
+  transform: rotate(90deg);
+  position: fixed;
+  top: 550px;
+  right: 0%;
+  border-radius: 5px;
+  z-index: 4;
+  color: aliceblue;
+  background-color: #25d366;
+}
+
+/* product-div  */
+.pro-div {
+  border: 2px solid grey;
+}
+
+.pro-div h2 {
+  color: red;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  float: left;
+}
+
+.pro-div table {
+  float: left;
+  margin: 5px auto;
+}
+
+.pro-div .row .price {
+  margin-left: 15px;
+  color: coral;
+}
+
+.arrow {
+  border-radius: 75px;
+  border: 2px solid #337ab7;
+  position: fixed;
+  right: 50px;
+  z-index: 3;
+  bottom: 50px;
+}
+
+/* product-bigImg  */
+.pro-img {
+  width: 200px;
+  height: 100px;
+  float: left;
+}
+
+.pro-img-sm {
+  float: left;
+  width: 100px;
+  height: 50px;
+}
